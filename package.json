@@ -1,0 +1,23 @@
+{
+  "name": "jest-webdevsimplified",
+  "version": "1.0.0",
+  "description": "This project is built from Introduction To Testing In JavaScript With Jest by Web Dev Simplified.",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulotsystems/jest-webdevsimplified.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kulotsystems/jest-webdevsimplified/issues"
+  },
+  "homepage": "https://github.com/kulotsystems/jest-webdevsimplified#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
