@@ -4,7 +4,7 @@
   "description": "This project is built from Introduction To Testing In JavaScript With Jest by Web Dev Simplified.",
   "main": "cloneArray.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
